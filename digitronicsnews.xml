@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <news>
+    <NewsID>1</NewsID>
+    <Title>old News</Title>
+    <NewsBody>Buy this colors mobile</NewsBody>
+	<ImgUrl></ImgUrl>
+    <Price>12000</Price>
+	<Contact></Contact>
+    <PubDate>1/12/2013</PubDate>
+  </news>
+  <news>
+    <NewsID>2</NewsID>
+    <Title>Latest News</Title>
+    <NewsBody>Buy this spice mobile</NewsBody>
+	<ImgUrl></ImgUrl>
+    <Price>12000</Price>
+	<Contact></Contact>
+    <PubDate>3/12/2013</PubDate>
+  </news>
+ </main>
