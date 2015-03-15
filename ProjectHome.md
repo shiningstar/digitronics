@@ -1,0 +1,1 @@
+this is news android application
